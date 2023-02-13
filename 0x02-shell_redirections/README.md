@@ -1,1 +1,1 @@
-0x02-shell to redirection
+0x02 shell redirections and filters read me file
